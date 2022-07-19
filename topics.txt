@@ -1,0 +1,8 @@
+Topics Cover :-
+
+-> components
+-> States (useState, useEffect,)
+-> porps
+-> Hooks
+-> eventHandling
+-> api
